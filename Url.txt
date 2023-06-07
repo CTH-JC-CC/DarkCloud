@@ -1,0 +1,3 @@
+api.telegram.org
+api.telegram.org/bot5520455072:AAHt-MFGFCUL3S_w3BTtc7meWUZSJFJduq0/sendMessage
+logxtai.shop
